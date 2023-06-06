@@ -1,12 +1,5 @@
 import { Menu } from "@mui/icons-material";
-import {
-  AppBar,
-  Box,
-  Button,
-  IconButton,
-  Toolbar,
-  Typography,
-} from "@mui/material";
+import { AppBar, Box, Button, IconButton, Toolbar, Typography } from "@mui/material";
 
 const MuiNavbar = () => {
   return (
